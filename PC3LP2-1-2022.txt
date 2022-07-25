@@ -1,0 +1,40 @@
+TRABAJO INDIVIDUAL
+===================
+
+Trabajar desde local.
+---------------------
+1. Crear un rpositorio con nombre PC3.
+2. Crea un archivo .ipnb con nombre prueba3 y anéxalo al repositorio.
+En el archivo agrega una función para obtener el factorial de un número entero positivo.
+3. Crea un archivo .csv con nombre datos3 y anéxalo al repositorio.
+El contenido debe tener una columna con las 10 primeras letras del abecedario.
+
+Trabajar desde remoto.
+----------------------
+1. Levantar el repositorio PC3 en remoto en su cuenta de GitHub
+2. Invitar a colaborar a uno de sus compañeros (equipo de trabajo)
+3. Aceptar la invitación dada para colaborar.
+
+TRABAJO COLABORATIVO
+=====================
+4. Editar el archivo .ipynb agregando otra función para obtener el factorial de un número entero positivo.
+Nota: esto debe realizarlo en local y luego levantarlo en remoto.
+Y agregar el readme.md al proyecto
+5. Explorar un repositorio de otro de sus compañeros y realice un requerimiento de edición en algún archivo
+del proyecto
+6. Aceptar los cambios requeridos
+
+
+Al finalizar: enviar las urls de ambos respositorios
+
+Criterios de evaluación:
+2 puntos c/u
+2 puntos:
+	- Dos punto a los primeros 5 envíos antes de las 12:00pm
+	- Un punto a los siguientes 5 envíos antes de las 12:00pm
+	- Cero puntos el resto de los envíos antes de las 12:00pm
+
+IMPORTANTE: El historial de commits debe tener como fecha de modificación 
+como máximo hasta las 12:00 pm. Los cambios posteriores no serán tomados en cuenta
+
+
